@@ -22,6 +22,10 @@ iconutil -c icns -o The\ Archive.icns The\ Archive.iconset
 
 to create the `.icns` file.
 
+### Credit
+
+Wood pattern by [Toptal Subtle Patterns](https://www.toptal.com/designers/subtlepatterns).
+
 ### License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
